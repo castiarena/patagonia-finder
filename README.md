@@ -1,4 +1,4 @@
-# patagonia-finder
-App web para la busqueda de lugares en la patagonia
+patagonia-finder-symfony
+========================
 
-#version 0.1
+A Symfony project created on July 22, 2015, 8:26 pm.
