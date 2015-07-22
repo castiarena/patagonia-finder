@@ -1,4 +1,4 @@
-patagonia-finder-symfony
+patagonia finder
 ========================
 
-A Symfony project created on July 22, 2015, 8:26 pm.
+Patagonia Finder es una App web creada con el framework open source Symfony.
